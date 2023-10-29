@@ -1,6 +1,6 @@
- Hi, I’m @Sri-The-Coder
- I’m interested in HTML and CSS
- I’m currently learning Advanced HTML and CSS, Later JS
+ Hi, I’m @Sri-The-Coder!
+ I’m interested in HTML and CSS.
+ I’m currently learning Advanced HTML and CSS, Later JS.
 
 
 
